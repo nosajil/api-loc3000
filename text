@@ -1,0 +1,122 @@
+[
+    {
+        "options": {
+            "aircondition": true,
+            "navigation": true,
+            "transmission": "AUTOMATIC",
+            "person": 5
+        },
+        "_id": "63f6199331403e10b2ef65b6",
+        "title": "MER-CLC",
+        "name": "Mercedes-Benz Classe C",
+        "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/mb-c-klasse-4d-grau-2020.png",
+        "price": 199,
+        "reservations": 3,
+        "__v": 0
+    },
+    {
+        "options": {
+            "aircondition": true,
+            "navigation": true,
+            "transmission": "AUTOMATIC",
+            "person": 5
+        },
+        "_id": "63f61acd31403e10b2ef65c0",
+        "title": "BMW-X1",
+        "name": "BMW X1",
+        "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/bmw-x1-5d-weiss-2019.png",
+        "price": 179,
+        "reservations": 7,
+        "__v": 0
+    },
+    {
+        "options": {
+            "aircondition": true,
+            "navigation": true,
+            "transmission": "MANUAL",
+            "person": 4
+        },
+        "_id": "63f61b7d31403e10b2ef65c3",
+        "title": "AUD-A1-SB",
+        "name": "Audi A1 Sportback",
+        "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/audi-a1-sportback-gelb-2019.png",
+        "price": 129,
+        "reservations": 5,
+        "__v": 0
+    },
+    {
+        "options": {
+            "aircondition": true,
+            "navigation": true,
+            "transmission": "MANUAL",
+            "person": 5
+        },
+        "_id": "63f61b9631403e10b2ef65c6",
+        "title": "VW-TROC",
+        "name": "VW T-Roc",
+        "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/vw-t-roc-suv-schwarz-2019.png",
+        "price": 139,
+        "reservations": 30,
+        "__v": 0
+    },
+    {
+        "options": {
+            "aircondition": true,
+            "navigation": true,
+            "transmission": "AUTOMATIC",
+            "person": 5
+        },
+        "_id": "63f61ba731403e10b2ef65c9",
+        "title": "AUD-Q3",
+        "name": "Audi Q3",
+        "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/audi-q3-5d-silber-2019.png",
+        "price": 189,
+        "reservations": 10,
+        "__v": 0
+    },
+    {
+        "options": {
+            "aircondition": true,
+            "navigation": true,
+            "transmission": "AUTOMATIC",
+            "person": 8
+        },
+        "_id": "63f61bb431403e10b2ef65cb",
+        "title": "MER-CLV",
+        "name": "Mercedes Classe V",
+        "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/mb-v-klasse-van-grau-2014.png",
+        "price": 249,
+        "reservations": 15,
+        "__v": 0
+    },
+    {
+        "options": {
+            "aircondition": true,
+            "navigation": true,
+            "transmission": "AUTOMATIC",
+            "person": 5
+        },
+        "_id": "63f61bbf31403e10b2ef65cd",
+        "title": "MAS-GHI",
+        "name": "Maserati Ghibli",
+        "image": "https://www.sixt.fr/fileadmin/files/global/user_upload/fleet/png/350x200/maserati-ghibli-4d-grau-2018.png",
+        "price": 499,
+        "reservations": 2,
+        "__v": 0
+    },
+    {
+        "options": {
+            "aircondition": false,
+            "navigation": false,
+            "transmission": "MANUAL",
+            "person": 4
+        },
+        "_id": "63f61bcb31403e10b2ef65cf",
+        "title": "REN-5",
+        "name": "Renault 5 Turbo",
+        "image": "https://vignette.wikia.nocookie.net/forzamotorsport/images/c/c0/HOR_XB1_Renault_5.png/revision/latest?cb=20191101135352",
+        "price": 199,
+        "reservations": 0,
+        "__v": 0
+    }
+]
